@@ -6,7 +6,6 @@ import time
 ### compare them
 ### remove labeled pictures from pix directory
 
-
 base_dir = "/Users/Kwado/Desktop/labeling"
 pictures = f"{base_dir}/continue_labeling"
 anot = f"{base_dir}/present_anot"
@@ -62,6 +61,6 @@ if __name__ == "__main__":
 
 
 
-#
+
 time.sleep(5)
 
